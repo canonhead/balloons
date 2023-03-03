@@ -1,0 +1,6 @@
+This is the wesbite that I found that details how to set up an arduino to play sound: it is very straightfoward and should be the least of our worries.
+
+https://maker.pro/arduino/projects/arduino-speaker
+
+Essentially plug the two wires of the speaker into the designated pins of the arduino board and run the code. simple as that, we can 
+potentially consider playing a set of tones or even a song (roar lions roar) for kicks and giggles. 
